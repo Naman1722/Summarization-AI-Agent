@@ -1,4 +1,4 @@
-# Support Ticket Summarizer Bot
+# Summaization-AI-Agent
 
 This is a simple AI-powered tool that takes in customer support tickets and summarizes them into 1-2 lines using Mistral's `mistral-large-latest` model via LangChain.
 
